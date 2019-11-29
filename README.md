@@ -22,3 +22,6 @@ Aquest repositori esta pensat com a forum per planificar les proximes sessio de 
 
 * On estan els :+1: (vot positiu) i :-1: (vot negatiu)?
 ![Segueix aquests passos:](assets/FAQS/FAQS_votar.png?raw=true "Votar")
+
+* Com puc referenciar una proposta de sessio (una issue)?
+![Segueix aquests passos:](assets/FAQS/FAQS_mencionar-issue.png?raw=true "Referenciar issue")

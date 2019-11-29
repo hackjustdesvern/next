@@ -21,4 +21,4 @@ Aquest repositori esta pensat com a forum per planificar les proximes sessio de 
 ![Segueix aquests passos:](assets/FAQS/FAQS_crear-issue.png?raw=true "Crear issue")
 
 * On estan els :+1: (vot positiu) i :-1: (vot negatiu)?
-TBD
+![Segueix aquests passos:](assets/FAQS/FAQS_votar.png?raw=true "Votar")

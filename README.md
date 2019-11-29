@@ -14,14 +14,14 @@ Aquest repositori esta pensat com a forum per planificar les proximes sessio de 
 
 ## FAQS
 
-* Necesito crearme una compte a GitHub?
+#### Necesito crearme una compte a GitHub?
 `Si vols participar de manera activa si. Pero pots veure tot el contingut sense tenir compte.`
 
-* Com puc afegir una "issue"?
+#### Com puc afegir una "issue"?
 ![Segueix aquests passos:](assets/FAQS/FAQS_crear-issue.png?raw=true "Crear issue")
 
-* On estan els :+1: (vot positiu) i :-1: (vot negatiu)?
+#### On estan els :+1: (vot positiu) i :-1: (vot negatiu)?
 ![Segueix aquests passos:](assets/FAQS/FAQS_votar.png?raw=true "Votar")
 
-* Com puc referenciar una proposta de sessio (una issue)?
+#### Com puc referenciar una proposta de sessio (una issue)?
 ![Segueix aquests passos:](assets/FAQS/FAQS_mancionar-issue.png?raw=true "Referenciar issue")

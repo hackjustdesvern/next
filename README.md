@@ -18,7 +18,7 @@ Aquest repositori esta pensat com a forum per planificar les proximes sessio de 
 `Si vols participar de manera activa si. Pero pots veure tot el contingut sense tenir compte.`
 
 * Com puc afegir una "issue"?
-TBD
+![Segueix aquests passos:](assets/FAQS/FAQS_crear-issue.png?raw=true "Crear issue")
 
 * On estan els :+1: (vot positiu) i :-1: (vot negatiu)?
 TBD

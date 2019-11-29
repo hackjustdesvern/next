@@ -24,4 +24,4 @@ Aquest repositori esta pensat com a forum per planificar les proximes sessio de 
 ![Segueix aquests passos:](assets/FAQS/FAQS_votar.png?raw=true "Votar")
 
 * Com puc referenciar una proposta de sessio (una issue)?
-![Segueix aquests passos:](assets/FAQS/FAQS_mencionar-issue.png?raw=true "Referenciar issue")
+![Segueix aquests passos:](assets/FAQS/FAQS_mancionar-issue.png?raw=true "Referenciar issue")
